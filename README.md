@@ -32,10 +32,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=iamthampuran&show_icons=true&hide_title=true&theme=transparent&text_color=94A3B8&icon_color=38bdf8" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=iamthampuran&theme=transparent&ring=38bdf8&fire=38bdf8&currStreakLabel=94A3B8" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=iamthampuran&show_icons=true&theme=transparent" />
+  <img height="160" src="https://streak-stats.demolab.com?user=iamthampuran&theme=transparent&ring=38bdf8&fire=38bdf8&currStreakLabel=94A3B8" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamthampuran&layout=compact&theme=transparent" />
+</p>
 ---
 
 ## 💼 Experience

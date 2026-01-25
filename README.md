@@ -32,13 +32,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=iamthampuran&show_icons=true&theme=transparent" />
-  <img height="160" src="https://streak-stats.demolab.com?user=iamthampuran&theme=transparent&ring=38bdf8&fire=38bdf8&currStreakLabel=94A3B8" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=iamthampuran&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="160" src="https://streak-stats.demolab.com?user=iamthampuran&theme=transparent&hide_border=true&ring=38bdf8&fire=38bdf8&currStreakLabel=94A3B8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamthampuran&layout=compact&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamthampuran&layout=compact&theme=transparent&hide_border=true" />
 </p>
+
 ---
 
 ## 💼 Experience
@@ -47,7 +48,7 @@
 *Sep 2023 – Present*
 
 - Designed and developed backend APIs using **ASP.NET Core Web API** following **Clean Architecture** and **CQRS**
-- Built high-performance **CSV/Excel export & import** pipelines with validation, batching, and parallel processing
+- Built high-performance **CSV/Excel export & import pipelines** with validation, batching, and parallel processing
 - Implemented **MongoDB aggregation pipelines** for event-store based data exports
 - Developed **cron-based schedulers** to handle stuck background jobs and improve system reliability
 - Integrated **Azure Logic Apps & Azure Functions** for workflow automation and background processing
@@ -111,4 +112,5 @@
   <sub>Focused on backend engineering, system design, and scalable cloud solutions.</sub>
 </p>
 
+<!-- Wave Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:020617&height=90&section=footer"/>

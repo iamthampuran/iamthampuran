@@ -32,12 +32,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=iamthampuran&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="160" src="https://streak-stats.demolab.com?user=iamthampuran&theme=transparent&hide_border=true&ring=38bdf8&fire=38bdf8&currStreakLabel=94A3B8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamthampuran&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamthampuran&show_icons=true&theme=transparent&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamthampuran&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
 ---

@@ -1,5 +1,5 @@
-<!-- Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=120&section=header"/>
+<!-- Header Banner -->
+<img width="100%" src="assets/header-banner.svg"/>
 
 <h1 align="center">Hi, I'm Amogh S Thampuran (AT)</h1>
 
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <strong>Software Engineer with 2+ years of experience</strong> building scalable, cloud-native, and data-intensive enterprise applications using <strong>.NET, Angular, and Azure</strong>.  
+  <strong>Software Engineer with 3+ years of experience</strong> building scalable, cloud-native, and data-intensive enterprise applications using <strong>.NET, Angular, and Azure</strong>.  
   Passionate about clean architecture, backend performance, and automation-driven workflows.
 </p>
 
@@ -32,9 +32,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamthampuran&show_icons=true&theme=transparent&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamthampuran&layout=compact&theme=transparent&hide_border=true"/>
+  <img src="https://img.shields.io/github/followers/iamthampuran?label=Followers&style=flat&logo=github&logoColor=white&color=0f172a&labelColor=1e293b" />
+  <img src="https://komarev.com/ghpvc/?username=iamthampuran&label=Profile%20Views&style=flat&color=0f172a" />
 </p>
+
+<!-- Want the full stats/top-languages cards back? Self-host github-readme-stats on your own Vercel
+     deployment (see project README for the one-click deploy), then point the image URLs at your
+     own domain instead of the shared vercel.app instance, which gets rate-limited constantly. -->
 
 ---
 
@@ -108,5 +112,5 @@
   <sub>Focused on backend engineering, system design, and scalable cloud solutions.</sub>
 </p>
 
-<!-- Wave Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:020617&height=90&section=footer"/>
+<!-- Footer Banner -->
+<img width="100%" src="assets/footer-banner.svg"/>
